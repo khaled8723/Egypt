@@ -1,0 +1,7 @@
+input[type =reset]:hover{
+    background: red;
+}
+
+input[type =submit]:hover{
+    background: blue;
+}
